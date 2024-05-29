@@ -5,7 +5,7 @@ This project aims to develop an early classification system for diabetes diagnos
 
 ## Dataset
 
-The dataset used in this project is the "Early Classification of Diabetes" dataset obtained from Kaggle. It contains observations with 17 features collected from patients in the Sylhet Diabetes Hospital in Bangladesh.
+The dataset used in this project is the "Early Classification of Diabetes" dataset obtained from Kaggle. 
 
 ## Approach
 
